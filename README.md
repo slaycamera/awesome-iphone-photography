@@ -32,6 +32,7 @@ Apps that help you decide *where the frame goes*, not just how it is exposed.
 
 - [Apple Camera](https://support.apple.com/guide/iphone/take-photos-iph263472f78/ios) - The built-in camera. Turn on *Settings › Camera › Grid* and *Level* for free rule-of-thirds lines and a horizon level.
 - [Camera Guide](https://apps.apple.com/us/app/camera-guide/id6760614136) - 25 geometric composition overlays, including golden ratio and phi grid, for a one-time purchase.
+- [October](https://www.october-ai.com) - Guided shooting for property photos: it shows you where to stand in each room, keeps the phone level and takes the shots, for real estate agents and rental hosts.
 - [slay](https://apps.apple.com/us/app/slay-ai-composition-camera/id6807513456) - 14 composition guides on the live viewfinder with the camera height, angle, zoom and distance for each; on-device subject tracking locks when the shot lines up. Free, with an optional Pro plan. *(made by us)*
 - [Wise Camera](https://apps.apple.com/us/app/wise-camera/id1406085025) - A library of classic composition rules overlaid on the camera.
 
